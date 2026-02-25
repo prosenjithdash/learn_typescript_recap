@@ -10,3 +10,16 @@ let name = 'Pappu';
 let lastName: string = 'Dash';
 
 
+// Number
+let age: number = 25;
+
+//Boolean
+let isOwner: boolean = true;
+
+//Null
+let a: null = null;
+
+// Undefined
+let x: undefined = undefined;
+
+
