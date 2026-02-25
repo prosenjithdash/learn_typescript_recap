@@ -12,7 +12,7 @@ I am revising TypeScript step by step to build a strong foundation for React, Ne
 - Compile TypeScript (.ts) into JavaScript (.js)
 - Configure TypeScript using tsconfig.json
 
----
+-------------------------------------:
 
 ## 📁 Project Structure
 learn_typescript_recap/
@@ -24,6 +24,7 @@ learn_typescript_recap/
 ├── dist/
 ├── tsconfig.json
 
+---------------------------------------:
 ## 🛠️ Step 1: Create TypeScript File
 
 Path: module1/src/index.ts
@@ -49,6 +50,7 @@ Update compilerOptions:{
   }
 }
 
+--------------------------------------------:
 Explanation:
 
 rootDir → Source TypeScript folder
@@ -57,7 +59,7 @@ outDir → Compiled JavaScript output folder
 
 strict → Enable strict type checking
 
-
+--------------------------------------------:
 ▶️ Run Compiled File
 
 After compilation:
@@ -65,7 +67,7 @@ After compilation:
 node dist/index.js
 
 
--------------------------------------
+-------------------------------------:
 💡 What I Learned from this part:
 
 Create TypeScript file
@@ -78,4 +80,4 @@ Configure rootDir and outDir
 
 Understand basic TypeScript setup
 
--------------------------------------
+-------------------------------------:
