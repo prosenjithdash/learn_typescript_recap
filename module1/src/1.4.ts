@@ -9,7 +9,6 @@ let name = 'Pappu';
 // jodi type declare kore dawa hoy ta hole take expesive data type bole
 let lastName: string = 'Dash';
 
-
 // Number
 let age: number = 25;
 
