@@ -15,6 +15,7 @@ let lastName: string = 'Dash';
 let age: number = 25;
 
 //Boolean
+
 let isOwner: boolean = true;
 
 //Null
