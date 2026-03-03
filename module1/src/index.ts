@@ -1,2 +1,3 @@
-let course:string = "Pappu";
+let course: string = "Pappu";
+
 console.log(course)
