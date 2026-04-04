@@ -3,6 +3,7 @@
   "compilerOptions": {
     // File Layout
     "rootDir": "./module1/src/",
+    
     "outDir": "./module1/dist",
 
     // Environment Settings
@@ -34,7 +35,7 @@
 
     // "noImplicitOverride": true,
     // "noUnusedLocals": true,
-    
+
     // "noUnusedParameters": true,
     // "noFallthroughCasesInSwitch": true,
 
