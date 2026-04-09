@@ -12,6 +12,7 @@
     "module": "nodenext",
     "target": "es5",
     "types": [],
+    
     // For nodejs:
     // "lib": ["esnext"],
     
